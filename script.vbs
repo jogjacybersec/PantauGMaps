@@ -1,3 +1,5 @@
+'CREDIT BY : DWI BUDICAHYANTO, Dipublikasikan Oleh Jogja Cyber Security
+
 dim vhotel, hotelname, clipboardText, nameofscreen, address1, address2, address3, town
 stataddress1=0
 stataddress2=0
